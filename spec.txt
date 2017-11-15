@@ -1,0 +1,8 @@
+Description:
+This extension adjusts photo and video size on instagram web page.
+
+1. Resizes instagram news feed page (https://www.instagram.com/) //adjustPhotosFeed()
+
+2. Optimizes photo and video sizes of carousel gallery. Changes navigation buttons positions. (e.g. https://www.instagram.com/kcdeane/ adjusts opened posts) //adjustPopupGallery()
+
+3. Resizes single post size (e.g. https://www.instagram.com/p/BY9kcQFl2lK/?taken-by=kcdeane) //adjustSinglePagePhoto()
